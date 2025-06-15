@@ -1,0 +1,2 @@
+worker:python CreyptoRate.py
+web:python -m http.server $PORT
